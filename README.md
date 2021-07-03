@@ -21,4 +21,5 @@ _Project Officer, data enthusiast (and something like a multipotential) based in
 
 ## 👩🏼‍💻 Education
 
-**[Master in Circular Corporate Responsability"@ Job Farm (Milano)]() _(2021)_ <br>
+**[Executive Master in Circular Corporate Responsability"**@ Job Farm (Milano)]() _(2021)_ <br>
+**[Master’s Degree in Data Analysis for Business Intelligence and Data Science,(Torino)]**() _(2021)_ <br>
