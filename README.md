@@ -20,3 +20,5 @@ _Project Officer, data enthusiast (and something like a multipotential) based in
 - Research activity in the neuroscientific field (functional and anatomical connectivity in psychiatric and neurological diseases))
 
 ## 👩🏼‍💻 Education
+
+**[Master in Circular Corporate Responsability"@ Job Farm (Milano)]() _(2021)_ <br>
