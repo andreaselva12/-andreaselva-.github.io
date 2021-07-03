@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Andrea S
 
-You can use the [editor on GitHub](https://github.com/andreaselva12/Digital-CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Project Officer, data enthusiast (and something like a multipotential) based in Italy_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:andrea.selva@outlook.it) / [LinkedIn](https://www.linkedin.com/in/andrea-s-091531160/) / [GitHub]() / [Twitter](https://twitter.com/carolstran/)
 
-### Markdown
+## 👩🏼‍💻 Professional Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Project officer** @ [Fondazione CRC](https://www.fondazionecrc.it/) _(Oct 2017 - Present)_ <br>
+- Focus on digital transformation projects for education
+- Data collection and analysis for decision making process
+- Research officer for open data related research projects
+- Preliminary project work investing the alignment of Fondazione CRC projects to the SDGs through a text analysis and NPL.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+2015-16 Department of Psychology Intern
+• 
 
-- Bulleted
-- List
+**Project officer** @ RDR Association _(Oct 2013 - Jun 2017)_ <br>
+- Design and management of projects tackling socio-economic inequalities among young people
+- Stakeholder engagement
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andreaselva12/Digital-CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Department of Psychology Intern** @ [] _(jul 2015 - jul 2016)_ <br>
+- Research activity in the neuroscientific field (functional and anatomical connectivity in psychiatric and neurological diseases))
