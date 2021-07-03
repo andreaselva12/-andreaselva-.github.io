@@ -12,13 +12,11 @@ _Project Officer, data enthusiast (and something like a multipotential) based in
 - Research officer for open data related research projects
 - Preliminary project work investing the alignment of Fondazione CRC projects to the SDGs through a text analysis and NPL.
 
-
-2015-16 Department of Psychology Intern
-• 
-
 **Project officer** @ RDR Association _(Oct 2013 - Jun 2017)_ <br>
 - Design and management of projects tackling socio-economic inequalities among young people
 - Stakeholder engagement
 
-**Department of Psychology Intern** @ [] _(jul 2015 - jul 2016)_ <br>
+**Department of Psychology Intern** @ Università degli Studi di Torino _(jul 2015 - jul 2016)_ <br>
 - Research activity in the neuroscientific field (functional and anatomical connectivity in psychiatric and neurological diseases))
+
+## 👩🏼‍💻 Education
