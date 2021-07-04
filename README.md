@@ -2,7 +2,7 @@
 
 _Project Officer, data enthusiast (and something like a multipotential) based in Italy_ <br>
 
-[Email](mailto:andrea.selva@outlook.it) / [LinkedIn](https://www.linkedin.com/in/andrea-s-091531160/) / [GitHub]() / [Twitter](https://twitter.com/carolstran/)
+[Email](mailto:andrea.selva@outlook.it) / [LinkedIn](https://www.linkedin.com/in/andrea-s-091531160/) / [GitHub](ttps://github.com/selvaandrea) / [Twitter](https://twitter.com/andreaselva9)
 
 ## Professional Experience
 
