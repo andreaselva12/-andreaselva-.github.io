@@ -19,17 +19,17 @@ I consider myself a multi-faceted and proactive lifelong learner at the intersec
 - Stakeholder engagement
 
 **Department of Psychology Intern** @ Università degli Studi di Torino _(jul 2015 - jul 2016)_ <br>
-- Research activity in the neuroscientific field (functional and anatomical connectivity in psychiatric and neurological diseases))
+- Research activity in the neuroscientific field (functional and anatomical connectivity in psychiatric and neurological diseases)
 
 ## Education
 
-**[Executive Master in Corporate Circular Responsability"](https://twitter.com/andreaselva9)**, Job Farm, Milan,_(2021)_ <br>
+**[Executive Master in Corporate Circular Responsibility](https://www.masteradabi.it/)**, Job Farm, Milan,_2021_ <br>
 **[Master’s Degree in Data Analysis for Business Intelligence and Data Science](https://www.masteradabi.it/)**, University of Turin, Turin, _(2019)_, 110 cum laude <br>
-**Master's Degree in Psychology (Cognitive Sciences and Neuroscience)**, University of Turin, Turin, _(2016)_, 110 cum laude <br>
+**Master's Degree in Psychology (Cognitive Sciences and Neuroscience)**, University of Turin, Turin, _2016_, 110 cum laude <br>
 **Bachelor in Psychology**, _(2012)_, University of Turin, Turin, _2012_, 106.
 
 ## Volunteering
-Actually I'm involving in:
-- [Cultura Italiae](): Sustainability Team; Sustainability Events Management
+Currently I'm involved in:
+- [Cultura Italiae](https://www.culturaitaliae.it/membri/): Sustainability Team; Sustainability Events Management
 - [ONE](https://www.one.org/international/): Youth Ambassadors; Advocacy and awareness activities on international development and SDGs
 - [Poliferie](https://poliferie.org/): Referent of Strategy Team; Deploying and monitoring the semestral strategic plan of the organization
