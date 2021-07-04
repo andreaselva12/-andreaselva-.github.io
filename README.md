@@ -1,7 +1,10 @@
-<h3 align ="center"># CV<h3>
-<h3 align ="center"> Project Officer, data enthusiast (and something like a multipotential) based in Italy<h3> <br>
+## Contact
 
-<h3 align ="center">[Email](mailto:andrea.selva@outlook.it) / [LinkedIn](https://www.linkedin.com/in/andrea-s-091531160/) / [GitHub](https://github.com/selvaandrea) / [Twitter](https://twitter.com/andreaselva9)<h3>
+[Email](mailto:andrea.selva@outlook.it) / [LinkedIn](https://www.linkedin.com/in/andrea-s-091531160/) / [GitHub](https://github.com/selvaandrea) / [Twitter](https://twitter.com/andreaselva9)
+
+## Bio
+
+I consider myself a multi-faceted and proactive lifelong learner at the intersection of data, sustainability and innovation. For study and work purposes, I became passionate about Sustainable Development & the Agenda 2030.
 
 ## Professional Experience
 
