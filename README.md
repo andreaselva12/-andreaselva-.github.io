@@ -4,7 +4,7 @@ _Project Officer, data enthusiast (and something like a multipotential) based in
 
 [Email](mailto:andrea.selva@outlook.it) / [LinkedIn](https://www.linkedin.com/in/andrea-s-091531160/) / [GitHub]() / [Twitter](https://twitter.com/carolstran/)
 
-## 👩🏼‍💻 Professional Experience
+## Professional Experience
 
 **Project officer** @ [Fondazione CRC](https://www.fondazionecrc.it/) _(Oct 2017 - Present)_ <br>
 - Focus on digital transformation projects for education
@@ -19,7 +19,9 @@ _Project Officer, data enthusiast (and something like a multipotential) based in
 **Department of Psychology Intern** @ Università degli Studi di Torino _(jul 2015 - jul 2016)_ <br>
 - Research activity in the neuroscientific field (functional and anatomical connectivity in psychiatric and neurological diseases))
 
-## 👩🏼‍💻 Education
+## Education
 
-**[Executive Master in Circular Corporate Responsability"**@ Job Farm (Milano)]() _(2021)_ <br>
-**[Master’s Degree in Data Analysis for Business Intelligence and Data Science,(Torino)]**() _(2021)_ <br>
+**[Executive Master in Circular Corporate Responsability"]()**, Job Farm (Milano) _(2021)_ <br>
+**[Master’s Degree in Data Analysis for Business Intelligence and Data Science()]**, University of Turin(Torino) _(2019)_, 110 cum laude <br>
+**Master's Degree in Psychology (Cognitive Sciences and Neuroscience)**, University of Turin _(2016)_, 110 cum laude <br>
+**Bachelor in Psychology**, _(2012)_, University of Turin, 106.
